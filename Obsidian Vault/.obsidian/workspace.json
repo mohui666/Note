@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown 常用语法.md",
+                "file": "DeepLearning/FSL/Metric learning-based methods.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Markdown 常用语法"
+              "title": "Metric learning-based methods"
             }
           },
           {
@@ -77,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,9 +184,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "361edb1909017b0d",
+  "active": "7e7db1ee8713edf4",
   "lastOpenFiles": [
     "DeepLearning/FSL/Meta-Learning methods.md",
+    "DeepLearning/FSL/Metric learning-based methods.md",
     "Markdown 常用语法.md",
     "DeepLearning/库使用/Datasets.md",
     "DeepLearning/FSL",
