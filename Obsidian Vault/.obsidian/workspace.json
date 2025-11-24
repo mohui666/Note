@@ -11,10 +11,38 @@
             "id": "361edb1909017b0d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Markdown 常用语法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Markdown 常用语法"
+            }
+          },
+          {
+            "id": "4f4bfbe45715a3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown 常用语法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Markdown 常用语法"
             }
           }
         ]
@@ -167,7 +195,14 @@
   },
   "active": "361edb1909017b0d",
   "lastOpenFiles": [
+    "DeepLearning/FSL/Meta-Learning methods.md",
+    "Markdown 常用语法.md",
+    "DeepLearning/库使用/Datasets.md",
+    "DeepLearning/FSL",
+    "DeepLearning/BERT.md",
+    "DeepLearning/Mamba.md",
     "DeepLearning/Vision Transformer.md",
+    "DeepLearning/库使用",
     "Note/DeepLearning/Vision Transformer.md",
     "Note/DeepLearning",
     "Note/LICENSE",
