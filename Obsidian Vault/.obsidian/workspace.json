@@ -4,36 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "9220851a53f09215",
+        "id": "b925b3a5ace3e72c",
         "type": "tabs",
         "children": [
           {
-            "id": "361edb1909017b0d",
+            "id": "ea5de0c73f19dddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearning/FSL/Metric learning-based methods.md",
+                "file": "DeepLearning/Meta-learning-based methods/Hallucination-based methods.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Metric learning-based methods"
+              "title": "Hallucination-based methods"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b36860fe4990676f",
+        "type": "tabs",
+        "children": [
           {
-            "id": "4f4bfbe45715a3ab",
+            "id": "83e7773c71d55231",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown 常用语法.md",
-                "mode": "source",
-                "source": false
+                "file": "DeepLearning/Meta-learning-based methods/Metric learning-based methods.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Markdown 常用语法"
+              "title": "Metric learning-based methods"
             }
           }
         ]
@@ -184,17 +191,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7e7db1ee8713edf4",
+  "active": "ea5de0c73f19dddf",
   "lastOpenFiles": [
-    "DeepLearning/FSL/Meta-Learning methods.md",
-    "DeepLearning/FSL/Metric learning-based methods.md",
-    "Markdown 常用语法.md",
-    "DeepLearning/库使用/Datasets.md",
-    "DeepLearning/FSL",
+    "DeepLearning/Meta-learning-based methods/Initialization-based methods.md",
+    "DeepLearning/Meta-learning-based methods/Metric learning-based methods.md",
+    "DeepLearning/Meta-learning-based methods/Hallucination-based methods.md",
+    "DeepLearning/Meta-learning-based methods/名词解释.md",
+    "Generic/Markdown 常用语法.md",
+    "Generic",
+    "DeepLearning/Backbone/Mamba.md",
+    "DeepLearning/Backbone/Vision Transformer.md",
     "DeepLearning/BERT.md",
-    "DeepLearning/Mamba.md",
-    "DeepLearning/Vision Transformer.md",
-    "DeepLearning/库使用",
+    "DeepLearning/Backbone",
+    "DeepLearning/Python/Datasets.md",
+    "DeepLearning/Meta-learning-based methods",
+    "DeepLearning/Python",
     "Note/DeepLearning/Vision Transformer.md",
     "Note/DeepLearning",
     "Note/LICENSE",

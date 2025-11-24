@@ -1,3 +1,4 @@
+通过在大量任务上训练一个“好初始化”，让模型在新任务上只需少量梯度更新就能快速适应。
 # MAML
 ### 对于每一类任务划分support和query集,inner loop在support集合上训练,outer loop在query集合上进行meta更新
 ***变体:FOMAML:忽略二阶导数(Relu的使用导致二阶导接近为常数)***
